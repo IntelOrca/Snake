@@ -1,0 +1,419 @@
+- 
+ 
+ 
+ 
+ 
+ 
+
+-A
+XXX
+X X
+XXX
+X X
+X X
+
+-B
+XXX 
+X X 
+XXXX
+X  X
+XXXX
+
+-C
+XXX
+X
+X
+X
+XXX
+
+-D
+XX
+X X
+X X
+X X
+XX
+
+-E
+XXX
+X
+XX
+X
+XXX
+
+-F
+XXX
+X
+XX
+X
+X
+
+-G
+XXX
+X
+X X
+X X
+XXX
+
+-H
+X X
+X X
+XXX
+X X
+X X
+
+-I
+XXX
+ X
+ X
+ X
+XXX
+
+-J
+XXX
+ X
+ X
+ X
+XX
+
+-K
+X X
+XX
+X
+XX
+X X
+
+-L
+X
+X
+X
+X
+XXX
+
+-M
+X   X
+XX XX
+X X X
+X   X
+X   X
+
+-N
+X   X
+XX  X
+X X X
+X  XX
+X   X
+
+-O
+XXXXX
+X   X
+X   X
+X   X
+XXXXX
+
+-P
+XXX
+X X
+XXX
+X
+X
+
+-Q
+XXXXX
+X   X
+X   X
+X X X
+XXXXX
+     X
+
+-R
+XXX
+X X
+XXX
+X  X
+X  X
+
+-S
+XXX
+X
+XXX
+  X
+XXX
+
+-T
+XXX
+ X
+ X
+ X
+ X
+
+-U
+X X
+X X
+X X
+X X
+XXX
+
+-V
+X X
+X X
+X X
+ X
+ X
+
+-W
+X   X
+X   X
+X X X
+XX XX
+X   X
+
+-X
+X   X
+ X X
+  X
+ X X
+X   X
+
+-Y
+X   X
+ X X
+  X
+  X
+  X
+
+-Z
+XXXXX
+   X
+  X
+ X
+XXXXX
+
+-a
+XXX
+  X
+XXX
+X X
+XXXX
+
+-b
+X
+X
+XXX
+X X
+XXX
+
+-c
+XXX
+X
+XXX
+
+-d
+  X
+  X
+XXX
+X X
+XXX
+
+-e
+XXX
+X X
+XXX
+X
+XXX
+
+-f
+ XX
+ X
+XXX
+ X
+ X
+
+-g
+XXX
+X X
+XXX
+  X
+XX
+
+-h
+X
+X
+XXX
+X X
+X X
+
+-i
+X
+
+X
+X
+X
+
+-j
+ X
+
+ X
+ X
+XX
+
+-k
+X X
+XX
+X X
+X X
+
+-l
+X
+X
+X
+X
+X
+
+-m
+XX XX
+X X X
+X   X
+
+-n
+XXX
+X X
+X X
+
+-o
+XXX
+X X
+XXX
+
+-p
+XXX
+X X
+XXX
+X
+X
+
+-q
+XXX
+X X
+XXX
+  X
+  X
+
+-r
+XXX
+X
+X
+
+-s
+ XX
+X
+ X
+  X
+XX
+
+-t
+ X
+XXX
+ X
+ X
+
+-u
+X X
+X X
+XXX
+
+-v
+X X
+X X
+ X
+
+-w
+X   X
+X X X
+ X X
+
+-x
+X X
+ X
+X X
+
+-y
+X   X
+ X X
+  X
+ X
+
+-z
+XXXX
+  X
+ X
+XXXX
+
+-0
+XXX
+X X
+X X
+X X
+XXX
+
+-1
+ X 
+XX
+ X
+ X
+XXX
+
+-2
+XXX
+  X
+XXX
+X
+XXX
+
+-3
+XXX
+  X
+ XX
+  X
+XXX
+
+-4
+X X
+X X
+XXX
+  X
+  X
+
+-5
+XXX
+X
+XX
+  X
+XX
+
+-6
+XXX
+X
+XXX
+X X
+XXX
+
+-7
+XXXXX
+   X
+  X
+ X
+X
+
+-8
+XXX
+X X
+XXX
+X X
+XXX
+
+-9
+XXX
+X X
+XXX
+  X
+XXX

@@ -1,0 +1,334 @@
+-TITLE|SCREEN
+XXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                          X
+X                          X
+X                          X
+X                          X
+X                          X
+X  XXX X###X XXX X##X XXX  X
+X  X## XX##X X#X X#X# X##  X
+X  XXX X#X#X XXX XX## XX#  X
+X  ##X X##XX X#X X#X# X##  X
+X  XXX X###X X#X X##X XXX  X
+X                          X
+X                          X
+X                          X
+X                          X
+X                          X
+X                          X
+X XXX# X#X     XXX XXX XX# X
+X X#X# X#X     #X# X## X#X X
+X XXXX #X#     #X# XX# X#X X
+X X##X #X#     #X# X## X#X X
+X XXXX #X#     #X# XXX XX# X
+X                          X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+-CLASSIC
+XXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                         X
+X                         X
+X                         X
+X                         X
+X                         X
+X                         X
+X                         X
+X                         X
+X                         X
+X                         X
+X                         X
+X                         X
+X                         X
+X                         X
+X                         X
+X                         X
+X                         X
+X                         X
+X                         X
+X                         X
+X                         X
+X                         X
+XXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+-SIMPLE
+XXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                         X
+X                         X
+X                         X
+X    X               X    X
+X    X               X    X
+X    X               X    X
+X    X               X    X
+X    X               X    X
+X    X               X    X
+X    X               X    X
+X    X               X    X
+X    X               X    X
+X    X               X    X
+X    X               X    X
+X    X               X    X
+X    X               X    X
+X    X               X    X
+X                         X
+X                         X
+X                         X
+X                         X
+X                         X
+XXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+-TROUBLE
+XXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                         X
+X                         X
+X    XXXXXX     XXXXXX    X
+X    X               X    X
+X    X               X    X
+X    X               X    X
+X    X               X    X
+X    X               X    X
+X    X               X    X
+X    X               X    X
+X    X               X    X
+X    X               X    X
+X    X               X    X
+X    X               X    X
+X    X               X    X
+X    X               X    X
+X    X               X    X
+X    XXXXXX     XXXXXX    X
+X                         X
+X                         X
+X                         X
+X                         X
+XXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+-BIG T
+XXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                         X
+X                         X
+X                         X
+X    XXXXXXXXXXXXXXXXX    X
+X                         X
+X            X            X
+X            X            X
+X            X            X
+X            X            X
+X            X            X
+X            X            X
+X            X            X
+X            X            X
+X            X            X
+X            X            X
+X            X            X
+X            X            X
+X                         X
+X                         X
+X                         X
+X                         X
+X                         X
+XXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+-BIG CROSS
+XXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                         X
+X                         X
+X                         X
+X            X            X
+X            X            X
+X            X            X
+X            X            X
+X            X            X
+X            X            X
+X   XXXXXXXXXXXXXXXXXXX   X
+X            X            X
+X            X            X
+X            X            X
+X            X            X
+X            X            X
+X            X            X
+X            X            X
+X                         X
+X                         X
+X                         X
+X                         X
+X                         X
+XXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+-DOUBLE|TROUBLE
+XXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                         X
+X                         X
+X    XXXXXX  X  XXXXXX    X
+X    X       X       X    X
+X    X       X       X    X
+X    X       X       X    X
+X    X       X       X    X
+X    X       X       X    X
+X    X       X       X    X
+X    X       X       X    X
+X    X       X       X    X
+X    X       X       X    X
+X    X       X       X    X
+X    X       X       X    X
+X    X       X       X    X
+X    X       X       X    X
+X    X       X       X    X
+X    XXXXXX  X  XXXXXX    X
+X                         X
+X                         X
+X                         X
+X                         X
+XXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+-DOUBLE T
+XXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                         X
+X                         X
+X                         X
+X    XXXXXXXXXXXXXXXXX    X
+X                         X
+X    XXXXXXX X XXXXXXX    X
+X          X X X          X
+X          X X X          X
+X          X X X          X
+X          X X X          X
+X          X X X          X
+X          X X X          X
+X          X X X          X
+X          X X X          X
+X          X X X          X
+X          X X X          X
+X          X X X          X
+X                         X
+X                         X
+X                         X
+X                         X
+X                         X
+XXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+-E I 3
+XXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                         X
+X                         X
+X    XXXXXX     XXXXXX    X
+X    X               X    X
+X    X               X    X
+X    X     XXXXX     X    X
+X    X       X       X    X
+X    X       X       X    X
+X    X       X       X    X
+X    XXXXXXX X XXXXXXX    X
+X    X       X       X    X
+X    X       X       X    X
+X    X     XXXXX     X    X
+X    X               X    X
+X    X               X    X
+X    X               X    X
+X    X               X    X
+X    XXXXXX     XXXXXX    X
+X                         X
+X                         X
+X                         X
+X                         X
+XXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+-ROOMS
+XXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                         X
+X                         X
+X                         X
+XXXXX XXXXXXXXXXXXXX XXXXXX
+X            X            X
+X            X            X
+X                         X
+X            X            X
+X            X            X
+XXXXX XXXXXXXXXXXXXX XXXXXX
+X            X            X
+X            X            X
+X                         X
+X                         X
+X            X            X
+X            X            X
+XXXXX XXXXXXXXXXXXXX XXXXXX
+X                         X
+X                         X
+X                         X
+X                         X
+X                         X
+XXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+-GRID
+XXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                         X
+X X  X  X  X  X  X  X  X  X
+X                         X
+X X  X  X  X  X  X  X  X  X
+X                         X
+X X  X  X  X  X  X  X  X  X
+X                         X
+X X  X  X  X  X  X  X  X  X
+X                         X
+X X  X  X  X  X  X  X  X  X
+X                         X
+X X  X  X  X  X  X  X  X  X
+X                         X
+X X  X  X  X  X  X  X  X  X
+X                         X
+X X  X  X  X  X  X  X  X  X
+X                         X
+X X  X  X  X  X  X  X  X  X
+X                         X
+X X  X  X  X  X  X  X  X  X
+X                         X
+XXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+-TIGHT GRID
+XXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                         X
+X X X X X X X X X X X X X X
+X                         X
+X X X X X X X X X X X X X X
+X                         X
+X X X X X X X X X X X X X X
+X                         X
+X X X X X X X X X X X X X X
+X                         X
+X X X X X X X X X X X X X X
+X                         X
+X X X X X X X X X X X X X X
+X                         X
+X X X X X X X X X X X X X X
+X                         X
+X X X X X X X X X X X X X X
+X                         X
+X X X X X X X X X X X X X X
+X                         X
+X X X X X X X X X X X X X X
+X                         X
+XXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+-CROSSES
+XXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                         X
+X  X   X   X   X   X   X  X
+X XXX XXX XXX XXX XXX XXX X
+X  X   X   X   X   X   X  X
+X                         X
+X  X   X   X   X   X   X  X
+X XXX XXX XXX XXX XXX XXX X
+X  X   X   X   X   X   X  X
+X                         X
+X  X   X   X   X   X   X  X
+X XXX XXX XXX XXX XXX XXX X
+X  X   X   X   X   X   X  X
+X                         X
+X  X   X   X   X   X   X  X
+X XXX XXX XXX XXX XXX XXX X
+X  X   X   X   X   X   X  X
+X                         X
+X  X   X   X   X   X   X  X
+X XXX XXX XXX XXX XXX XXX X
+X  X   X   X   X   X   X  X
+X                         X
+XXXXXXXXXXXXXXXXXXXXXXXXXXX
