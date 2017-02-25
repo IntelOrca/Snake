@@ -43,13 +43,13 @@ namespace Ted.MySnake
 			//    }
 			//}
 
-			mLevels = new ASCIILevelTable("levels\\levels.txt");
+			mLevels = new ASCIILevelTable("data\\levels\\levels.txt");
 			mHighestLevel = mLevels.Count;
 
-			snakeGame1.Images.Add("null", Image.FromFile("media\\null.png"));
-			snakeGame1.Images.Add("wall", Image.FromFile("media\\wall.png"));
-			snakeGame1.Images.Add("food", Image.FromFile("media\\food.png"));
-			snakeGame1.LoadASCIITable("levels\\ascii.txt");
+			snakeGame1.Images.Add("null", Image.FromFile("data\\media\\null.png"));
+			snakeGame1.Images.Add("wall", Image.FromFile("data\\media\\wall.png"));
+			snakeGame1.Images.Add("food", Image.FromFile("data\\media\\food.png"));
+			snakeGame1.LoadASCIITable("data\\levels\\ascii.txt");
 
 			LoadIntroLevel();
 			//newToolStripMenuItem_Click(this, EventArgs.Empty);
